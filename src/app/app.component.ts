@@ -24,12 +24,12 @@ export class AppComponent implements OnInit {
   });
 
   constructor() {
-    // Way to listen to fullName (computed)
+    // Way to listen a computed property
     effect(() => (this.fullName() !== this.DEFAULT_TEXT) && console.log(`FullName: ${this.fullName()}`));
   }
 
   ngOnInit(): void {
-    // Way to listem to name (signal)
+    // Way to listem a signal property
     this.$name
       .pipe(filter(name => !!name))
       .subscribe((name) => console.log(`Name: ${name}`));

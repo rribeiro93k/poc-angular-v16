@@ -1,0 +1,44 @@
+[
+  {
+    "cod": 50003895,
+    "name": "Geladeira Consul",
+    "price": 2812.13,
+    "departament": "Eletrodoméstico",
+    "image": "https://imgs.casasbahia.com.br/50003895/1g.jpg?imwidth=500"
+  },
+  {
+    "cod": 50003996,
+    "name": "Forno de Micro-ondas Electrolux",
+    "price": 823.53,
+    "departament": "Eletrodoméstico",
+    "image": "https://imgs.casasbahia.com.br/50003996/1g.jpg?imwidth=500"
+  },
+  {
+    "cod": 55054418,
+    "name": "Apple iPhone 14 Pro Max",
+    "price": 7799,
+    "departament": "Telefonia",
+    "image": "https://imgs.casasbahia.com.br/55054418/1g.jpg?imwidth=500"
+  },
+  {
+    "cod": 55058051,
+    "name": "Smartphone Samsung Galaxy S23 Ultra",
+    "price": 10999.12,
+    "departament": "Telefonia",
+    "image": "https://imgs.casasbahia.com.br/55058051/1g.jpg?imwidth=500"
+  },
+  {
+    "cod": 55051436,
+    "name": "Smart TV 65\" Neo QLED 4K Samsung",
+    "price": 8549.05,
+    "departament": "TVs e Video",
+    "image": "https://imgs.casasbahia.com.br/55051436/1g.jpg?imwidth=500"
+  },
+  {
+    "cod": 55022004,
+    "name": "Smart TV 85\" QLED 4K Samsung",
+    "price": 12824.05,
+    "departament": "TVs e Video",
+    "image": "https://imgs.casasbahia.com.br/55022004/1g.jpg?imwidth=500"
+  }
+]
